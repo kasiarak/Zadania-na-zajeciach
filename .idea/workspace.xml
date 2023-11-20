@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd5ecc65-f674-4ad9-a4ac-e628281a7da9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZadaniaNaZajeciach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/Program16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/Program17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/Program18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/Program19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01/cw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01/cw11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01/cw12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01/cw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01/cw3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01/cw4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01/cw5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01/cw6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01/cw7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01/cw8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01/cw9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01_Analiza/I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01_Analiza/II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01_Analiza/III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01_Analiza/IV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01_Analiza/IX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01_Analiza/V.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01_Analiza/VI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01_Analiza/VII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01_Analiza/VIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01_Analiza/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_01_Analiza/XI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwtichPetle/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwtichPetle/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwtichPetle/Main7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwtichPetle/Main8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwtichPetle/Main9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2XU7kOl5qIDq6dRmHh2FTRxQMWU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/annar/IdeaProjects/papierkamiennozyce&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/annar/IdeaProjects/ZadaniaNaZajeciach/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Powtorka_01" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd5ecc65-f674-4ad9-a4ac-e628281a7da9" name="Changes" comment="" />
+      <created>1698671949206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698671949206</updated>
+    </task>
+    <servers />
+  </component>
+</project>
