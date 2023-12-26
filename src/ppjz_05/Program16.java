@@ -1,4 +1,4 @@
-package IfElse;
+package ppjz_05;
 
 public class Program16 {
         public static void main(String[] args){

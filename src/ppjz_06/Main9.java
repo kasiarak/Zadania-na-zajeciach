@@ -1,4 +1,4 @@
-package SwtichPetle;
+package ppjz_06;
 
 public class Main9 {
     public static void main(String[] args) {
