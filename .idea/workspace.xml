@@ -5,44 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd5ecc65-f674-4ad9-a4ac-e628281a7da9" name="Changes" comment="commit1">
-      <change afterPath="$PROJECT_DIR$/src/Powtorka_01/cw10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_06/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_06/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_06/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_07/cw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_07/cw2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_07/cw3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_07/cw4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_07/cw5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_07/cw6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_08/cw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_08/cw2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_08/cw3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_08/cw4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_08/cw5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_08/cw6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_09/cw5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_10/cw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_10/cw2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_10/cw3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_10/cw4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_10/cw5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_10/odwrocenie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_11/Kula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_11/KulaNa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_11/Kwadrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_11/Walec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_11/Kula/KulaNa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfElse/Program16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_05/Program16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfElse/Program17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_05/Program17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfElse/Program18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_05/Program18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfElse/Program19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_05/Program19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwtichPetle/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_06/Main5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwtichPetle/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_06/Main6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwtichPetle/Main7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_06/Main7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwtichPetle/Main8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_06/Main8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwtichPetle/Main9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_06/Main9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ppjz_11/KulaW/KulaW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_11/Kula/KulaW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ppjz_11/KulaW/Kwadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_11/Kula/Kwadrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ppjz_11/KulaW/Walec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_11/Kula/Walec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ppjz_11/Kwadrat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ppjz_11/Kwadrat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_11/Kwadrat2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ppjz_11/Walec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ppjz_11/Walec2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_11/Walec2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/annar/IdeaProjects/ZadaniaNaZajeciach",
+    "last_opened_file_path": "C:/Users/annar/IdeaProjects/papierkamiennozyce",
     "onboarding.tips.debug.path": "C:/Users/annar/IdeaProjects/ZadaniaNaZajeciach/src/Main.java"
   }
 }]]></component>

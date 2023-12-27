@@ -1,4 +1,4 @@
-package ppjz_11.KulaW;
+package ppjz_11.Kula;
 
 public class Walec {
     private int wysokość;
@@ -13,7 +13,7 @@ public class Walec {
         return wysokość;
     }
 
-    public int getPromień() {
+    public int getPromień(){
         return promień;
     }
 
