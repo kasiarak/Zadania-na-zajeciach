@@ -5,15 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd5ecc65-f674-4ad9-a4ac-e628281a7da9" name="Changes" comment="commit1">
-      <change afterPath="$PROJECT_DIR$/src/ppjz_11/Kula/KulaNa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Balloon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Donkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Dzem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Graniastoslup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Osoba2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Ostroslup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Prostokąt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Prostopadloscian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Spawacz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Trojkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ppjz_11/KulaW/KulaW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_11/Kula/KulaW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ppjz_11/KulaW/Kwadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_11/Kula/Kwadrat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ppjz_11/KulaW/Walec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_11/Kula/Walec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ppjz_11/Kwadrat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ppjz_11/Kwadrat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_11/Kwadrat2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ppjz_11/Walec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ppjz_11/Walec2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ppjz_11/Walec2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/annar/IdeaProjects/papierkamiennozyce",
+    "last_opened_file_path": "C:/Users/annar/JdbcMysqlDemo",
     "onboarding.tips.debug.path": "C:/Users/annar/IdeaProjects/ZadaniaNaZajeciach/src/Main.java"
   }
 }]]></component>
