@@ -5,22 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd5ecc65-f674-4ad9-a4ac-e628281a7da9" name="Changes" comment="commit1">
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Balloon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Donkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Dzem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Graniastoslup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Osoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Osoba2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Ostroslup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Prostokąt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Prostopadloscian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Spawacz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Trojkat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ppjz_12/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/I.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/III.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/IV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/IX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/V.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/VI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/VII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/VIII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/X.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/XI.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +47,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/annar/JdbcMysqlDemo",
-    "onboarding.tips.debug.path": "C:/Users/annar/IdeaProjects/ZadaniaNaZajeciach/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/annar/JdbcMysqlDemo&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/annar/IdeaProjects/ZadaniaNaZajeciach/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Powtorka_01" />
