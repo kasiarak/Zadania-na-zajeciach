@@ -5,26 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd5ecc65-f674-4ad9-a4ac-e628281a7da9" name="Changes" comment="commit1">
-      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Powtorka_02/cw8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_13/Drzewo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_13/DrzewoIglaste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_13/DrzewoLisciaste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_13/DrzewoOwocowe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_13/Komorka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_13/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_13/Smartfon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ppjz_13/Telefon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/I.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/II.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/III.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/IV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/IX.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/V.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/VI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/VII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/VIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/X.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Powtorka_01_Analiza/XI.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
