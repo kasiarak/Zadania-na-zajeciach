@@ -14,11 +14,14 @@ public class Person implements Comparable<Person>{
 
     @Override
     public int compareTo(Person o) {
-        System.out.println(this.name + " " + o.name);
         return this.name.compareTo(o.name);
     }
     public static boolean isInColl(
             Collection<Person> coll, String name, int year){
-        return coll.contains(new Person(name, year));
+        boolean x = false;
+        for(Person person : coll){
+            if(person.name.equals(name) && person.birthYear == year) x = true;
+        }
+        return x;
     }
 }

@@ -18,13 +18,13 @@ public class PersonsColls {
         out.println(Person.isInColl(list, "Brenda", 2001));
         out.println(Person.isInColl(list, "Debby", 2001));
 
-//        Set<Person> tSet = new TreeSet<>(list);
-//        out.println(Person.isInColl(tSet, "Brenda", 2001));
-//        out.println(Person.isInColl(tSet, "Debby", 2001));
-//
-//        Set<Person> hSet = new HashSet<>(list);
-//        out.println(Person.isInColl(hSet, "Brenda", 2001));
-//        out.println(Person.isInColl(hSet, "Debby", 2001));
+        Set<Person> tSet = new TreeSet<>(list);
+        out.println(Person.isInColl(tSet, "Brenda", 2001));
+        out.println(Person.isInColl(tSet, "Debby", 2001));
+
+        Set<Person> hSet = new HashSet<>(list);
+        out.println(Person.isInColl(hSet, "Brenda", 2001));
+        out.println(Person.isInColl(hSet, "Debby", 2001));
     }
 }
 
