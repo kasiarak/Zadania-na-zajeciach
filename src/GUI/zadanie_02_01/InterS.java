@@ -6,7 +6,7 @@ public class InterS {
                 new Concat(), new ConcatRev(),
                 new Initials(), new Separ(" loves ")
         };
-        for (TwoStringsOper op : a) {
+        for(TwoStringsOper op : a) {
             System.out.println(op.apply("Mary", "John"));
         }
     }

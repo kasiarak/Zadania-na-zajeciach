@@ -25,5 +25,4 @@ public class OnlineStore extends ShoppingCart {
     private Product[] products = new Product[20];
     private int productCounter = 0;
 
-//TODO: implement missing methods from abstract class
 }

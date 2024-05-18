@@ -20,9 +20,7 @@ public abstract class Singer {
         int indeks = 0;
         for(int i = 0; i < sng.length; i++){
             for(int j = 0; j < sng[i].sing().length(); j++){
-                if(isUpperCase(sng[i].sing().charAt(j))){
-                    wielkieLitery++;
-                }
+                if(isUpperCase(sng[i].sing().charAt(j))) wielkieLitery++;
             }
             if(wielkieLitery>najwiecejWielkichLiter){
                 najwiecejWielkichLiter = wielkieLitery;
