@@ -9,12 +9,10 @@ public class MyColor extends java.awt.Color implements Comparable<MyColor>{
     public String toString(){
        return "(" + getRed() +", " + getGreen() + ", " + getBlue() +")";
     }
-
     @Override
     public int compareTo(MyColor o) {
         return this.suma - o.suma;
     }
-
     public int getSuma() {
         return suma;
     }
