@@ -17,7 +17,7 @@ public class DiffLettWords {
         try (Stream<String> lines =
                      Files.lines(Paths.get(book)))
         {
-            Map<Integer,List<String>> map = lines.flatMap(line -> Stream.of(line.split("\\W+"))).filter(word ->
+            Map<Integer,List<String>> map = lines.flatMap(line -> Stream.of(line.split("[ .?!,:;\\-']"))).filter(word ->
                     word.length() >= minLen).map(String::toLowerCase).filter(word -> word.chars().distinct().count() == word.length())
                     .collect(Collectors.groupingBy(String::length));
                     /* one chain of stream operations */;
