@@ -12,7 +12,6 @@ public class DiffLettWords {
     public static void main(String[] args) {
         //String book = "C:\\Users\\annar\\schultz_sklepy_cynamonowe_UTF8.txt";
         String book = "C:\\Users\\annar\\melville_moby_dick.txt";
-
         int minLen = 5; // ignore words shorter than minLen
         try (Stream<String> lines =
                      Files.lines(Paths.get(book)))
