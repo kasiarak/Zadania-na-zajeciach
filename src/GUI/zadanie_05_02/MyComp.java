@@ -11,7 +11,6 @@ class MyComp implements Comparator<Integer> {
     public MyComp(int byVal) {
         this.byVal = byVal;
     }
-
     @Override
     public int compare(Integer o1, Integer o2) {
        switch (byVal){
