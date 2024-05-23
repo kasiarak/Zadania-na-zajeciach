@@ -18,6 +18,7 @@ public class InterF {
         Func cmp2 = Func.compose(g, f);
         Func cmp3 = Func.compose(Func.compose(g, cmp1), f);
         Func cmp4 = Func.compose(g, Func.compose(cmp2, f));
+
         System.out.println("Res1: " + cmp1.apply(3));
         System.out.println("Res2: " + cmp2.apply(3));
         System.out.println("Res3: " + cmp3.apply(3));

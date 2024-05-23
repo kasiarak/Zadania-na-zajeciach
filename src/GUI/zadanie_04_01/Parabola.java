@@ -10,7 +10,6 @@ public class Parabola implements FunDD{
         this.b = b;
         this.c = c;
     }
-
     @Override
     public double fun(double x) {
         return a*Math.pow(x,2)+b*x+c;
