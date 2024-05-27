@@ -13,7 +13,6 @@ public class Roll implements Iterable<Integer> {
             public boolean hasNext() {
                 return sum != 11;
             }
-
             @Override
             public Integer next() {
                 int roll = (int)(1+Math.random()*6);
