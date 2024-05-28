@@ -16,8 +16,7 @@ public class Person implements Comparable<Person>{
     public int compareTo(Person o) {
         return this.name.compareTo(o.name);
     }
-    public static boolean isInColl(
-            Collection<Person> coll, String name, int year){
+    public static boolean isInColl(Collection<Person> coll, String name, int year){
         boolean x = false;
         for(Person person : coll){
             if(person.name.equals(name) && person.birthYear == year) x = true;
