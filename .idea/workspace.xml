@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd5ecc65-f674-4ad9-a4ac-e628281a7da9" name="Changes" comment="commit1" />
+    <list default="true" id="dd5ecc65-f674-4ad9-a4ac-e628281a7da9" name="Changes" comment="commit1">
+      <change afterPath="$PROJECT_DIR$/src/GUI/zadanie_10_01/interfejs1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/zadanie_10_01/interfejs2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/zadanie_10_01/interfejs3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/zadanie_10_01/interfejs4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/zadanie_10_01/interfejs5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/zadanie_10_01/interfejs6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/zadanie_10_02/ChangeTitleButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/zadanie_10_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/zadanie_10_02/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/zadanie_11_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/zadanie_11_01/MainPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/zadanie_11_01/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +64,7 @@
       <recent name="Powtorka_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.cw5">
+  <component name="RunManager">
     <configuration name="InterS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GUI.zadanie_02_01.InterS" />
       <module name="ZadaniaNaZajeciach" />
