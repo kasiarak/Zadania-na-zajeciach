@@ -3,6 +3,5 @@ public class Program11{
 	boolean czyPada = true;
 	int x = czyPada ? 5:8;
 	System.out.println(x);
-
 	}
 }
