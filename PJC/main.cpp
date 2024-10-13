@@ -1,7 +1,16 @@
 #include <iostream>
+#include <vector>
+#include <string>
+#include <fmt/base.h>
+#include <fmt/ranges.h>
+#include <algorithm>
+#include "zadanie1.h"
+#include "zadanie2.h"
+
 
 int main()
 {
-    std::cout << "Hello, World!" << std::endl;
+    //zadanie1();
+    zadanie2();
     return 0;
 }
