@@ -1,0 +1,3 @@
+C:/Users/annar/ZadaniaNaZajeciach/PJC/cmake-build-debug/CMakeFiles/PJC.dir
+C:/Users/annar/ZadaniaNaZajeciach/PJC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/annar/ZadaniaNaZajeciach/PJC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

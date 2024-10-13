@@ -1,0 +1,90 @@
+Klasa abstrakcyjna - poprzedza sie nazwe klasy slowem kluczowym "abstract",
+metody bez ciala trzeba zaimplementowac w innej klasie gdzie tworzymy obiekt tej
+klasy abstrakcyjnej a metody juz z zaimplementowanym cialem nie trzeba, czesto uzywana
+jest do hierarchi klas jako taka ogolna, nie mozna tworzyc obiektu bez zaimplementowania metod.
+Jesli klasa zawiera abstrakcyjna metode to musi byc tez klasa abstrakcyjna. Metoda abstrakcyjna
+to taka bez ciała i tez sie pisze slowo abstract przed. W klasie abstrakcyjnej przynajmniej
+jedna metoda nie moze miec ciala
+
+Klasa zewnetrzna - nie jest zawarta w zadnej innej klasie, moze byc tylko publiczna
+lub pakietowa
+
+Klasa wewnetrzna - zawarta w innej klasie, zadeklarowana bez static i zdefiniowana w
+miejscu gdzie moglyby wystapic skladniki klasy zawierajacej. Moga byc prywatne,
+chronione, publiczne i pakietowe. Klasa wewnetrzna nie moze zawierac nowych klas,
+interface'ow, obiektow. Maja dostep do prywatnych metod klasy zewnetrznej. Ograniczenia:
+- anonimowe klasy wewnetrzne moga rozszerzac tylko jedna nie-finalna klase lub implementowac
+jeden interface
+-lokalne klasy wewnetrzne nie moga korzystac z lokalnej zmiennej metody zewnetrznej, chyba
+ze ta lokalna zmienna jest finalna
+-klasy wewnetrzne nie moga miec statycznych czlonkow (chyba ze sa finalne)
+
+Klasa zanurzona - to samo co wewnetrzna tylko zadeklarowana jest ze slowem static,
+z tym ze moze zawierac skladniki klasowe
+
+Klasa anonimowa - klasa niejawnie zadeklarowana, nie zawiera slowa class ani extends,
+ani implements np new Object(){}
+
+Klasa lokalna - zawarta w ciele metody, nie moze byc static i nie moze miec specyfikatora
+hermetyzacji tzn public, protected itd
+
+interface - zmienne zadeklarowane w interface sa public, static i final, klasa implementujaca
+interface musi implementowac metody bez cial (dodac im cialo jakby). W porownaniu do klasy
+abstrakcyjnej, nie moze miec niestatycznych, niefinalnych pol, nie moze miec konstruktrow i nie moze tez
+miec metod final. Jak chcemy uzyc metody z cialem to trzeba napisac: NazwaInterfejsu.Metoda()
+
+Kiedy interface ma 1 naglowek niezaimplementowanej metody jest wtedy funkcyjny
+
+Klasa moze dziedziczyc maks 1 klase, ale moze implementowac wiele interfejsow
+
+Wyrazenie bez lambdy:
+Drawable drawable = new Drawable(){
+    void draw(){
+        //rysuje sie
+    }
+};
+To samo ale z lambda:
+Drawable drawable = () -> {
+    //rysuje sie
+}
+Typy Generyczne Przyjete nazwenictwo:
+    ~ T - Type
+    ~ K - Key
+    ~ N - numer
+    ~ E - element
+    ~ V - value
+    ~ S,U,V - drugi, trzeci i kolejne typy
+
+Interfejs Comparable - jeden sposob sortowania, przyklad:
+public class Person implements Comparable<Person> {
+    private String name;
+    private int age;
+
+    @Override
+    public int compareTo(Person other) {
+        return this.name.compareTo(other.name);
+    }
+}
+
+Interfejs Comparator - pozwala na okreslenie sposobu sortowania, mozna np porownac dwie
+rozne rzeczy, przyklad:
+public class PersonComparator implements Comparator<Person> {
+    @Override
+    public int compare(Person p1, Person p2) {
+        // Porównujemy najpierw po wieku
+        int ageComparison = Integer.compare(p1.getAge(), p2.getAge());
+        if (ageComparison != 0) {
+            return ageComparison;
+        }
+        // Jeśli wiek jest taki sam, porównujemy po nazwiskach
+        return p1.getName().compareTo(p2.getName());
+    }
+}status
+
+Iterator jest obiektem ktory umozliwia iteracje tzn przechodzenie po elementach kolekcji lub
+sekwencji danych. Po implementacji interfejsu iterable mozna stworzyc iterator z zapisanym w
+srodku <> co bedziemy iterowac. Nastepnie po utworzeniu jego obiektu trzeba zaimplementowac metody
+hasNext() ktora sprawdza czy istnieje kolejny element oraz next() ktora zwraca kolejny element
+
+Enum - zmienne statyczne finalne, uzywajac enumow zwiekszamy czas kompilacji ale unikamy
+bledow, wszystkie typy wylicznikowe dziedicza po java.lang.Enum, wykorzystuje wlasna przestrzen nazewnicza
