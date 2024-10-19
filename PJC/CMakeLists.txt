@@ -17,5 +17,9 @@ add_executable(PJC main.cpp
         zadanie1.cpp
         zadanie1.h
         zadanie2.cpp
-        zadanie2.h)
+        zadanie2.h
+        reverseWord.cpp
+        reverseWord.h
+        reverseWords.cpp
+        reverseWords.h)
 target_link_libraries(PJC fmt)
