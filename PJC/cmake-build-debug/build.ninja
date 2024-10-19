@@ -91,6 +91,13 @@ build CMakeFiles/PJC.dir/guessNumber.cpp.obj: CXX_COMPILER__PJC_unscanned_Debug 
   OBJECT_DIR = CMakeFiles\PJC.dir
   OBJECT_FILE_DIR = CMakeFiles\PJC.dir
 
+build CMakeFiles/PJC.dir/isPrime.cpp.obj: CXX_COMPILER__PJC_unscanned_Debug C$:/Users/annar/ZadaniaNaZajeciach/PJC/isPrime.cpp || cmake_object_order_depends_target_PJC
+  DEP_FILE = CMakeFiles\PJC.dir\isPrime.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/annar/ZadaniaNaZajeciach/PJC/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles\PJC.dir
+  OBJECT_FILE_DIR = CMakeFiles\PJC.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target PJC
@@ -99,7 +106,7 @@ build CMakeFiles/PJC.dir/guessNumber.cpp.obj: CXX_COMPILER__PJC_unscanned_Debug 
 #############################################
 # Link the executable PJC.exe
 
-build PJC.exe: CXX_EXECUTABLE_LINKER__PJC_Debug CMakeFiles/PJC.dir/main.cpp.obj CMakeFiles/PJC.dir/zadanie1.cpp.obj CMakeFiles/PJC.dir/zadanie2.cpp.obj CMakeFiles/PJC.dir/reverseWord.cpp.obj CMakeFiles/PJC.dir/reverseWords.cpp.obj CMakeFiles/PJC.dir/guessNumber.cpp.obj | _deps/fmt-build/libfmtd.a || _deps/fmt-build/libfmtd.a
+build PJC.exe: CXX_EXECUTABLE_LINKER__PJC_Debug CMakeFiles/PJC.dir/main.cpp.obj CMakeFiles/PJC.dir/zadanie1.cpp.obj CMakeFiles/PJC.dir/zadanie2.cpp.obj CMakeFiles/PJC.dir/reverseWord.cpp.obj CMakeFiles/PJC.dir/reverseWords.cpp.obj CMakeFiles/PJC.dir/guessNumber.cpp.obj CMakeFiles/PJC.dir/isPrime.cpp.obj | _deps/fmt-build/libfmtd.a || _deps/fmt-build/libfmtd.a
   FLAGS = -g
   LINK_LIBRARIES = _deps/fmt-build/libfmtd.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\PJC.dir

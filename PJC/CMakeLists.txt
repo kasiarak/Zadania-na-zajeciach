@@ -23,5 +23,7 @@ add_executable(PJC main.cpp
         reverseWords.cpp
         reverseWords.h
         guessNumber.cpp
-        guessNumber.h)
+        guessNumber.h
+        isPrime.cpp
+        isPrime.h)
 target_link_libraries(PJC fmt)

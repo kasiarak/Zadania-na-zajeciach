@@ -9,6 +9,7 @@
 #include "reverseWord.h"
 #include "reverseWords.h"
 #include "guessNumber.h"
+#include "isPrime.h"
 
 
 int main()
@@ -17,6 +18,7 @@ int main()
     //zadanie2();
     //reverseWord("word");
     //reverseWords();
-    guessNumber();
+    //guessNumber();
+    isPrime(4);
     return 0;
 }
