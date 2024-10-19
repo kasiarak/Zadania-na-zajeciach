@@ -8,6 +8,7 @@
 #include "zadanie2.h"
 #include "reverseWord.h"
 #include "reverseWords.h"
+#include "guessNumber.h"
 
 
 int main()
@@ -15,6 +16,7 @@ int main()
     //zadanie1();
     //zadanie2();
     //reverseWord("word");
-    reverseWords();
+    //reverseWords();
+    guessNumber();
     return 0;
 }

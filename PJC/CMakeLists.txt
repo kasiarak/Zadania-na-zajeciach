@@ -21,5 +21,7 @@ add_executable(PJC main.cpp
         reverseWord.cpp
         reverseWord.h
         reverseWords.cpp
-        reverseWords.h)
+        reverseWords.h
+        guessNumber.cpp
+        guessNumber.h)
 target_link_libraries(PJC fmt)
