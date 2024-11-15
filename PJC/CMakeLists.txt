@@ -25,5 +25,7 @@ add_executable(PJC main.cpp
         guessNumber.cpp
         guessNumber.h
         isPrime.cpp
-        isPrime.h)
+        isPrime.h
+        operacjeNaZmiennychTekstowych.cpp
+        operacjeNaZmiennychTekstowych.h)
 target_link_libraries(PJC fmt)
