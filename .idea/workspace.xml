@@ -2,178 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f789bcc-05c8-4494-9000-877391a18019" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZadaniaNaZajeciach.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ZadaniaNaZajeciach.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_01_01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_01_01/Singer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_02_01/Concat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_02_01/ConcatRev.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_02_01/Initials.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_02_01/InterS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_02_01/Separ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_02_01/TwoStringsOper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_02_02/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_02_02/Clothing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_02_02/Electronics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_02_02/OnlineStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_02_02/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_02_02/ShoppingCart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_03_01/ColComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_03_01/ColorComparing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_03_01/MyColor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_03_01/MyColorCompar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_03_02/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_04_01/FunDD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_04_01/Parabola.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_04_01/Task0301.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_04_02/Func.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_04_02/InterF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_05_01/GenTrans.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_05_01/StrToInt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_05_01/Transform.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_05_02/Compars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_05_02/MyComp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_06_01/Roll.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_06_01/RollDice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_06_02/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_06_02/PersonsColls.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_07_01/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_07_01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_07_02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_07_02/Purchase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_08_01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_08_01/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_08_02/DiffLettWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_09_01/LetterThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_09_01/Letters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_09_01/SLettersThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_09_02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_09_02/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_10_01/interfejs1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_10_01/interfejs2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_10_01/interfejs3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_10_01/interfejs4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_10_01/interfejs5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_10_01/interfejs6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_10_02/ChangeTitleButtonListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_10_02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_10_02/MyFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_11_01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_11_01/MainPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/zadanie_11_01/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/PPJAnalizaExercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/PPJAnalizaExerciseDuo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_01/cw1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_01/cw10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_01/cw11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_01/cw12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_01/cw2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_01/cw3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_01/cw4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_01/cw5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_01/cw6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_01/cw7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_01/cw8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_01/cw9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_02/cw1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_02/cw2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_02/cw3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_02/cw4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_02/cw5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_02/cw6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_02/cw7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/Powtorka_02/cw8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_05/Program11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_05/Program12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_05/Program13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_05/Program14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_05/Program15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_05/Program16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_05/Program17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_05/Program18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_05/Program19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_06/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_06/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_06/Main3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_06/Main4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_06/Main5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_06/Main6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_06/Main7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_06/Main8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_06/Main9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_07/cw1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_07/cw2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_07/cw3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_07/cw4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_07/cw5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_07/cw6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_08/cw1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_08/cw2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_08/cw3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_08/cw4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_08/cw5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_08/cw6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_09/cw1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_09/cw2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_09/cw3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_09/cw4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_09/cw5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_10/cw1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_10/cw2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_10/cw3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_10/cw4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_10/cw5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_10/odwrocenie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_11/Fruit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_11/Kula/KulaNa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_11/Kula/KulaW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_11/Kula/Kwadrat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_11/Kula/Walec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_11/Kwadrat2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_11/MathOperations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_11/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_11/Walec2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Ball.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Balloon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Donkey.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Dzem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Graniastoslup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Osoba.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Osoba2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Ostroslup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Prostokąt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Prostopadloscian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/ShoppingCart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Spawacz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Trojkat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_12/Word.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_13/Drzewo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_13/DrzewoIglaste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_13/DrzewoLisciaste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_13/DrzewoOwocowe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_13/Komorka.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_13/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_13/Osoba.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_13/Smartfon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_13/Telefon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/Alarm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/DetektorDymu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/Drzewo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/Drzewo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/DrzewoBezOwocoweException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/DrzewoIglaste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/DrzewoLisciaste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/DrzewoOwocowe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/Gruszka.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/Jabłko.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/Owoc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/Pomarancza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PPJ/ppjz_14/Rakieta.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/PJC/operacjeNaZmiennychTekstowych.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PJC/operacjeNaZmiennychTekstowych.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PJC/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1046b9da000055df909f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-19T13-23-23-0155.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/cmake-build-debug/.cmake/api/v1/reply/target-PJC-Debug-4ae2da12c2e96c3d3c0d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/PJC/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/PJC/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/cmake-build-debug/CMakeFiles/PJC.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/PJC/cmake-build-debug/CMakeFiles/PJC.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PJC/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/cmake-build-debug/PJC.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PJC/cmake-build-debug/PJC.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/PJC/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/cmake-build-debug/_deps/fmt-subbuild/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/PJC/cmake-build-debug/_deps/fmt-subbuild/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/PJC/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PJC/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PJC/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/annar/ZadaniaNaZajeciach",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/annar/ZadaniaNaZajeciach&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Program11">
     <configuration name="Program11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Program11" />
