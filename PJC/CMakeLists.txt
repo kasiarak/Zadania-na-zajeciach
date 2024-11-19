@@ -27,5 +27,7 @@ add_executable(PJC main.cpp
         isPrime.cpp
         isPrime.h
         operacjeNaZmiennychTekstowych.cpp
-        operacjeNaZmiennychTekstowych.h)
+        operacjeNaZmiennychTekstowych.h
+        analizaGrupyStudenckiej.cpp
+        analizaGrupyStudenckiej.h)
 target_link_libraries(PJC fmt)

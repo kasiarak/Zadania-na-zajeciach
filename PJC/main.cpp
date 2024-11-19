@@ -12,23 +12,17 @@
 #include "isPrime.h"
 #include "operacjeNaZmiennychTekstowych.h"
 
-// int main()
-// {
-//     //zadanie1();
-//     //zadanie2();
-//     //reverseWord("word");
-//     //reverseWords();
-//     //guessNumber();
-//     //isPrime(4);
-//     //operacjeNaZmiennychTekstowych();
-//
-//
-//
-//     return 0;
-// }
-auto main() -> int {
-    std::vector<std::string> x = {"Koty", "nwm", "Magik"};
-    for(int i = 0; i < x.size(); i++) {
+int main()
+{
+    //zadanie1();
+    //zadanie2();
+    //reverseWord("word");
+    //reverseWords();
+    //guessNumber();
+    //isPrime(4);
+    //operacjeNaZmiennychTekstowych();
 
-    }
+
+    return 0;
 }
+
